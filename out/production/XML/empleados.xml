@@ -1,0 +1,14 @@
+<Empleados>
+    <empleado dni="123456789">
+        <id>1</id>
+        <apellido>Fernandez</apellido>
+        <dep>10</dep>
+        <salario>1100.45</salario>
+    </empleado>
+    <empleado dni="987654312">
+        <id>2</id>
+        <apellido>Gil</apellido>
+        <dep>20</dep>
+        <salario>2100.45</salario>
+    </empleado>
+</Empleados>
